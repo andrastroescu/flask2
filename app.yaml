@@ -1,0 +1,6 @@
+name: sample-flask
+services:
+- name: web
+  github:
+    repo: andrastroescu/flask2
+    branch: master
